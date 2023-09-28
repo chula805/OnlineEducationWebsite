@@ -2,6 +2,8 @@
 
 Responsive Online Education Website 👩‍🎓🎓
 
+Demo Link: https://chula805.github.io/OnlineEducationWebsite/
+
 * Responsive Online Education Website Using HTML, CSS & JavaScript.
 * It has three color designs (yellow, blue, black and white)
 * Smooth scrolling in each section.
